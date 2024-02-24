@@ -1,1 +1,1 @@
-this is readme file onke boos
+print("hello");
